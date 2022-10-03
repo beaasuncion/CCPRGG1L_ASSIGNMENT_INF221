@@ -4,11 +4,9 @@ public class App {
         for (int i = 5; i != 0; i--) {
          
          if (i == 4) {
-                System.out.println("aukonah");
+                System.out.println("WAIT! Need a break!");
                 break;
             }
-
-            System.out.println("hehhehehehehhehe");
         
             System.out.println("Beatriz");
         
@@ -26,7 +24,7 @@ public class App {
             
             nicknameCount--;
             if (nicknameCount == 2) {
-                System.out.println("rawrrrrrrrrrrrr");
+                System.out.println("SKIP THIS GO TO THE NEXT LOOP");
                 continue;
             }
             
