@@ -43,6 +43,7 @@ System.out.println("PATTERN 2:");
                 }
             }
         }
+// Pattern 3
 System.out.println("");
 System.out.println("PATTERN 3:");
 
@@ -63,6 +64,7 @@ System.out.println("PATTERN 3:");
             }
          }
         }
+// Pattern 4
 System.out.println("");
 System.out.println("PATTERN 4:");
 for (int row = 0; row < mdArray.length; row++) {
@@ -82,6 +84,7 @@ for (int row = 0; row < mdArray.length; row++) {
                 }
             }
         }
+// 5
 System.out.println("");
 System.out.println("PATTERN 5: SUM");
 
